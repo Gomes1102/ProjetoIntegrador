@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tela1", "Tela1\Tela1.csproj", "{EDBE5FAD-8652-4D3C-A230-E37C998AA22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBE5FAD-8652-4D3C-A230-E37C998AA22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBE5FAD-8652-4D3C-A230-E37C998AA22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBE5FAD-8652-4D3C-A230-E37C998AA22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBE5FAD-8652-4D3C-A230-E37C998AA22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DEC2C80-1AA0-4C5B-9D5A-1FA9D6921C62}
+	EndGlobalSection
+EndGlobal
